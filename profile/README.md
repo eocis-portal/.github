@@ -15,3 +15,4 @@ Data ordering services [page](https://eocis.org/portal) are implemented by the f
 The climate dashboard is implemented by the following repositories:
 
 * [Dashboard](https://github.com/eocis-portal/dashboard)
+* [Dashboard Backend](https://github.com/eocis-portal/dashboard-backend)
