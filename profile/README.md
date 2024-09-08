@@ -16,3 +16,13 @@ The climate dashboard is implemented by the following repositories:
 
 * [Dashboard](https://github.com/eocis-portal/dashboard)
 * [Dashboard Backend](https://github.com/eocis-portal/dashboard-backend)
+
+Some tools for generating STAC metadata from EOCIS datasets are available in this repo:
+
+* [STAC-TOOLS](https://github.com/eocis-portal/stac-tools)
+
+## see also
+
+A library and tools for creating EOCIS CHUK format data files
+
+* [CHUK-API](https://github.com/eocis-chuk/chuk-api)
